@@ -3,7 +3,7 @@
     padding: 0;
 }
 #navigration{
-    background-image: url('./img/webheader.jpg');
+    background-image: url('img/webheader.jpg');
     background-color:  linear-gradient(dodgerblue, rgb(1, 62, 122));
     display: flex;
     justify-content: space-between;
